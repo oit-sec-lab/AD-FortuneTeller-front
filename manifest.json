@@ -1,5 +1,5 @@
 {
-    "name" : "AD-fortuneteller",
+    "name" : "AD-FortuneTeller",
     "version" : "1.0.0",
     "manifest_version" : 2,
     "description" : "An extension that checks may be embedded malicious scripts in sites",
